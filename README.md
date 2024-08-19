@@ -7,8 +7,8 @@ A total of 40 nearest and 40 furthest trials will occur after pressing play. The
 Creates a file called VistypeID.csv in the assets folder.
 
 
-Included:
-Unity project
+Included: 
+\nUnity project
 ProjectData.ipynb   -- code for averaging/summing data
 allData.csv         -- combined data from all trials
 Projectanalysis.R   -- R code for the ANOVA test
