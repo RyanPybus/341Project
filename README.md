@@ -13,3 +13,4 @@ Unity project
 ProjectData.ipynb   -- code for averaging/summing data  
 allData.csv         -- combined data from all trials  
 Projectanalysis.R   -- R code for the ANOVA test  
+ProjectReport.pdf   -- pdf of formal report
