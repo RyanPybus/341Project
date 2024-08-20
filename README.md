@@ -6,6 +6,7 @@ A blue box means click on the nearest, black means furthest.
 A total of 40 nearest and 40 furthest trials will occur after pressing play. The runtime will terminate itself aftercompletion.  
 Creates a file called VistypeID.csv in the assets folder.  
 
+Video Summary: https://www.youtube.com/watch?v=roUdS6g8d_w
 
 Included:  
 Unity project  
